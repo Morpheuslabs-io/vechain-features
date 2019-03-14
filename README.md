@@ -1,5 +1,7 @@
 # VeChainThor Docs
 
+Information is provided by VeChain to Morpheus Labs.
+
 ## Bi-Token Design
 
 Financial characteristics are inherent in every blockchain. A proper economic model is one of the fundamental elements in a blockchain ecosystem, and a key factor for its success. We have learned from our business partners, especially corporations and enterprise business owners, that one of major obstacles to adopting blockchain technologies is the unpredictability of the cost of using blockchain, thanks to the volatility of cryptocurrencies. 
